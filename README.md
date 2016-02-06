@@ -1,2 +1,2 @@
-# member-list
-Member list for game guilds
+# Member List
+A simplified member list for gaming guilds.
